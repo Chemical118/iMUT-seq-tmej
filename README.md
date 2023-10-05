@@ -16,3 +16,6 @@ The python script takes mprofile files and calculates MMEJ rates and base substi
 
 <br>
 The R script contains the ggplot commands used to create the mutation line plots presented in the iMUT-seq manuscript.
+
+<br>
+The machine_pipe.py script is the machine learning software used for optimising the Bowtie2 alignment efficiency. 
