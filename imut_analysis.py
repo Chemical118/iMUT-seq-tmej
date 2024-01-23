@@ -85,7 +85,7 @@ def mmejcalc(inputdf):
                         else:
                             break
 
-                        if mmlen >=2:
+                        if mmlen >= 1:
                             mmejlens+=(str(mmlen)+",")
                             mmejdellens+=(match.group()+",")
                             mmrate+=float(rate)
